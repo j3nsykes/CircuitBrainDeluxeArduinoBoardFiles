@@ -445,7 +445,7 @@
     "architecture": "samd",
     "version": "0.0.1",
     "category": "Contributed",
-    "url": "https://github.com/j3nsykes/CircuitBrainDeluxeArduinoBoardFiles/blob/main/boardFiles/Adafruit_circuitBrainDeluxe_boards.zip",
+    "url": "https://github.com/j3nsykes/CircuitBrainDeluxeArduinoBoardFiles/blob/main/boardFiles/Adafruit_circuitBrainDeluxe_boards.zip?raw=true",
     "archiveFileName": "Adafruit_circuitBrainDeluxe_boards.zip",
     "checksum": "SHA-256:51f1bfcdcca717188f3e1a6616de47d19974ebaff53ba7422cb7dc4b64dbd871",
     "size": "7955187",
